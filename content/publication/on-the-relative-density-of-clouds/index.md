@@ -8,7 +8,7 @@ authors:
   - "& Mesa"
   - O. J.
 doi: https://doi.org/10.1002/qj.3099
-publication: ""
+publication: Quarterly Journal of the Royal Meteorological Society
 abstract: ""
 draft: false
 featured: false
